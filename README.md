@@ -15,8 +15,8 @@ Este proyecto es una aplicación web tipo blog, donde los usuarios pueden:
 🚀 Cómo correr el proyecto
 1. Cloná el repositorio:
 '''bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+git clone https://github.com/Lucrecia19/blog-lucrecia.git
+cd blog-lucrecia
 
 2. Creá y activá un entorno virtual:
 
