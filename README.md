@@ -15,7 +15,7 @@ Este proyecto es una aplicación web tipo blog, donde los usuarios pueden:
 🚀 Cómo correr el proyecto
 1. Cloná el repositorio:
 '''bash
-git clone https://github.com/Lucrecia19/blog-lucrecia.git
+git clone https://github.com/Lucrecia19/blog-lucrecia
 cd blog-lucrecia
 
 2. Creá y activá un entorno virtual:
@@ -64,5 +64,6 @@ Contraseña: coderhouse123
 
 📽 Video demostración
 
-> El video se mostrará en mínimo de 10 minutos todas las funcionalidades:
-registro, login, perfil, crear/ver/editar/borrar páginas, búsqueda, mensaje de "no hay páginas".
+-En el siguiente video se puede ver el funcionamiento del proyecto:
+
+ https://youtu.be/7EGJk8VCygw
